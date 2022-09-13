@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Test case for strip-comments stripping source code",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "strip-comments": "node index.js"
   },
