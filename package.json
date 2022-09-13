@@ -17,5 +17,8 @@
     "url": "https://github.com/trivikr/strip-comments-test/issues"
   },
   "homepage": "https://github.com/trivikr/strip-comments-test#readme",
-  "packageManager": "yarn@3.2.3"
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "strip-comments": "2.0.1"
+  }
 }
