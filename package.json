@@ -1,0 +1,20 @@
+{
+  "name": "strip-comments-test",
+  "version": "1.0.0",
+  "description": "Test case for strip-comments stripping source code",
+  "main": "index.js",
+  "scripts": {
+    "strip-comments": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivikr/strip-comments-test.git"
+  },
+  "keywords": [],
+  "author": "Kamat, Trivikram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trivikr/strip-comments-test/issues"
+  },
+  "homepage": "https://github.com/trivikr/strip-comments-test#readme"
+}
